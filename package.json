@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "getpoints-abdelhamed1996",
-=======
   "name": "getpoints",
->>>>>>> part-2
   "version": "0.0.0",
   "private": true,
   "scripts": {

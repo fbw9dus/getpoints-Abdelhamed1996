@@ -17,8 +17,6 @@ describe('Patients Router Variable', () => {
         positive: true
       })
     done();
-
-    //test
   })
 })
 
