@@ -12,8 +12,6 @@
       "run": "npm test -- __tests__/api.js",
       "timeout": 10,
       "points": 3
-<<<<<<< HEAD
-=======
     },{
       "name": "patients all",
       "setup": "npm install",
@@ -26,7 +24,6 @@
       "run": "npm test -- __tests__/patients-var.js",
       "timeout": 10,
       "points": 3
->>>>>>> part-2
     }
   ]
 }
