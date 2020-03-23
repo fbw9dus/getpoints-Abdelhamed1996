@@ -5,7 +5,11 @@
  */
 
 var app = require('../app');
+<<<<<<< HEAD
 var debug = require('debug')('getpoints-abdelhamed1996:server');
+=======
+var debug = require('debug')('getpoints:server');
+>>>>>>> part-2
 var http = require('http');
 
 /**
